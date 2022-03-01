@@ -1,0 +1,25 @@
+{
+  "name": "js-multiple-inheritance",
+  "version": "1.0.0",
+  "description": "Provides advanced features for object-oriented programming in Javascript, like multiple inheritance. Especially designed to be compatible with the Javascript interpreter Duktape.",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orphic-lacuna/js-multiple-inheritance.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Duktape",
+    "Multiple",
+    "Inheritance"
+  ],
+  "author": "orphic-lacuna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orphic-lacuna/js-multiple-inheritance/issues"
+  },
+  "homepage": "https://github.com/orphic-lacuna/js-multiple-inheritance#readme"
+}
